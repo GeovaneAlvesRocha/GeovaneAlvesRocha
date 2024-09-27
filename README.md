@@ -15,9 +15,6 @@
   </a>
 </div>
 
-###
-
-<h3 align="left">✨ Criando bugs desde 2023!<br>📚 Atualmente, estou estudando Desenvolvimento Web.<br>🎯 Objetivos: Me tornar uma profissional competente e contribuir para projetos impactantes.<br>💡 Curiosidade: Adoro explorar novas tecnologias e sempre estou em busca de novidades!</h3>
 
 ###
 
