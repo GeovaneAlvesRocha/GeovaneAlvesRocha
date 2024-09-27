@@ -1,8 +1,8 @@
-<h2 align="left">🤗 Bem-vindo ao meu perfil!</h2>
+<h1 align="left">🤗 Bem-vindo ao meu perfil!</h1>
 
 ###
 
-<h3 align="left">Abaixo os links para meus contatos. Estou aberto(a) a críticas construtivas e dicas. Vamos nos conectar!</h3>
+<h2 align="left">Abaixo os links para meus contatos. Estou aberto(a) a críticas construtivas e dicas. Vamos nos conectar!</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">🛠️ Ferramentas & Tecnologias</h2>
+<h1 align="left">🛠️ Ferramentas & Tecnologias</h1>
 
 ###
 
